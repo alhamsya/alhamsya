@@ -1,5 +1,5 @@
 ### Quick highlighs
-- TBD
+- -
 
 ### Technology Stacks
 - Language: Golang, PHP, Python
