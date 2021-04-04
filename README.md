@@ -2,7 +2,7 @@
 - TBD
 
 ### Technology Stacks
-- Language: Golang, PHP
+- Language: Golang, PHP, Python
 - Messaging: RabbitMQ, NSQ
 - Memory Store: Redis
 - DBMS: MySQL, PostgreSQL
