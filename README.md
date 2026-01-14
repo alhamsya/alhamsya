@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="left">🧰 Tech Stack</h2>
+## 🕹️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="40" alt="grpc logo"  />
