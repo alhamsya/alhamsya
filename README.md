@@ -14,9 +14,9 @@
 ## 🕹️ Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alhamsya/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alhamsya/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alhamsya/seniorsoftwareengineer/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alhamsya/alhamsya/refs/heads/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alhamsya/alhamsya/refs/heads/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alhamsya/alhamsya/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
